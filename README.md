@@ -11,7 +11,7 @@ Types and its discription
 | 1  | [KRA-KPI'S](#)                                                                                                                                             |
 | 2  | [Payment-of-Gratuity](#)                                                                                                                                               |
 | 3  | [PF-Policies](#)                                                                                                                                                  |
-| 4  | []Payroll-calculations(#)                                                                                                                                                |
+| 4  | []Payroll-calculations(#)                                                                                                                                                   |
 
 
 | 1  | [KRA KPI'S](#) 

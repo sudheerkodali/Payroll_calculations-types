@@ -10,7 +10,8 @@ Types and its discription
 |    | **concepts**                                                                                                                                                          |                                                                                                                                                                    
 | 1  | [KRA-KPI'S](#)                                                                                                                                             |
 | 2  | [Payment-of-Gratuity](#)                                                                                                                                               |
-| 3  | [PF-Policies](#)                                                                                                                                                  |
+| 3  | [PF-Policies](#)    
+|
 | 4  | [Payroll-calculations](#)                                                                                                                                                   |
 
 
@@ -18,3 +19,8 @@ Types and its discription
 | 1  | [KRA KPI'S](#) 
 
 ![](./inputfoder/image1.png)
+
+
+| 2 | [payment-of-graduity]
+
+![](./inputfolder/image1.png)

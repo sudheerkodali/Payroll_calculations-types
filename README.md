@@ -21,6 +21,6 @@ Types and its discription
 ![](./inputfoder/image1.png)
 
 
-| 2 | [payment-of-graduity]
+| 2 | [payment-of-Gratuity]
 
 ![](./inputfolder/image1.png)

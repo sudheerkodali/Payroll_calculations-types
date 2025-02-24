@@ -14,6 +14,7 @@ Types and its discription
 |
 | 4  | [Payroll-calculations](#)                                                |
 
+| 5   |[Payroll-slabs](#)               |
 
 
 | 1  | [KRA KPI'S](#) 

@@ -48,3 +48,27 @@ Types and its discription
 
     <img src="https://github.com/sudheerj/vuejs-interview-questions/blob/master/images/lifecycle.png" width="400" height="800">
 
+
+
+
+
+
+
+     1. **Creation(Initialization):**
+        Creation Hooks allow you to perform actions before your component has even been added to the DOM. You need to use these hooks if you need to set things up in your component both during client rendering and server rendering. Unlike other hooks, creation hooks are also run during server-side rendering.
+        1. beforeCreate:
+           This hook runs at the very initialization of your component. hook observes data and initialization events in your component. Here, data is still not reactive and events that occur during the component’s lifecycle have not been set up yet.
+        ```javascript
+            new Vue({
+              data: {
+               count: 10
+              },
+              beforeCreate: function () {
+                console.log('Nothing gets called at this moment')
+                // `this` points to the view model instance
+                console.log('count is ' + this.count);
+              }
+            })
+               // count is undefined
+         ```
+

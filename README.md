@@ -72,3 +72,20 @@ Types and its discription
                // count is undefined
          ```
 
+
+          2. created:
+            This hook is invoked when Vue has set up events and data observation. Here, events are active and access to reactive data is enabled though templates have not yet been mounted or rendered.
+        ```javascript
+          new Vue({
+            data: {
+             count: 10
+            },
+            created: function () {
+              // `this` points to the view model instance
+              console.log('count is: ' + this.count)
+            }
+          })
+             // count is: 10
+        ```
+        **Note:** Remember that, You will not have access to the DOM or the target mounting element (this.$el) inside of creation hooks
+

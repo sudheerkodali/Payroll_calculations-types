@@ -12,7 +12,6 @@ Types and its discription
 | 2  | [Payment-of-Gratuity](#)                                                                                                                                                 |
 | 3  | [PF-Policies](#)                                                                                                                                                         |
 | 4  | [Payroll-calculations](#)                                                                                                                                                |
-
 | 5   |[Payroll-slabs](#)                                                                                                                                                       |
 
 

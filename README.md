@@ -28,6 +28,10 @@ Types and its discription
 
 1.  ### What are KRA, KPI'S?
    KRA, KPI'S we called it has "key related areas" & "key performance areas" with redars to this these were compared with 360degrees and points scale calculation we can get to know in the below information,
+
+
+![](./py/image1.png)
+   
     **[⬆ Back to Top](#table-of-contents)**
    
    1. **KRA KPI'S:**

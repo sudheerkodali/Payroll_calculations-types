@@ -34,7 +34,7 @@ Types and its discription
 ## Recruitment process 
 ![](./py/image2.png)
 
-## salary increment on performation calculation
+## salary increment on performance calculation
 ![](./py/image3.png)
    
 **[⬆ Back to Top](#table-of-concepts)**

@@ -20,17 +20,22 @@ Types and its discription
 ![](./inputfoder/image1.png)
 
 
-| 2 | [payment-of-Gratuity]
 
-![](./inputfolder/image1.png)
+![](./inputfolder/image2.png)
+
+
 
 
 
 1.  ### What are KRA, KPI'S?
    KRA, KPI'S we called it has "KEY RELATED AREAS" & "KEY PERFORMANCE AREAS" with regards to this, these were compared with 360degrees and points scale calculation we can get to know in the below information,
-   
+   ![](./py/image1.png)
 
-![](./py/image1.png)
+## Recruitment process 
+![](./py/image2.png)
+
+## salary increment on performation calculation
+![](./py/image3.png)
    
 **[⬆ Back to Top](#table-of-concepts)**
    
@@ -39,5 +44,5 @@ Types and its discription
 
 
 
-
+| 2 | [payment-of-Gratuity]
     

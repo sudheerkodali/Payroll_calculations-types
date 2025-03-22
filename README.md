@@ -8,7 +8,7 @@ Types and its discription
 | ---| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | **table-of-concepts**                                                                                                                                                          |                                                                                                                                                                    
 | 1  | [KRA-KPI'S](#)                                                                                                                                                           |
-| 2  | [Payment-of-Gratuity](#)                                                                                                                                                 |
+| 2  | [Payable-days](#)                                                                                                                                                        |
 | 3  | [PF-Policies](#)                                                                                                                                                         |
 | 4  | [Payroll-calculations](#)                                                                                                                                                |
 | 5   |[Payroll-slabs](#)                                                                                                                                                       |
@@ -19,7 +19,7 @@ Types and its discription
 1.  ### What are KRA, KPI'S?
    KRA, KPI'S we called it has "KEY RELATED AREAS" & "KEY PERFORMANCE AREAS" with regards to this, these were compared with 360degrees and points scale calculation we can get to know in the below information,
    ![](./py/image1.png)
-
+ 
 ## Recruitment process 
 ![](./py/image2.png)
 
@@ -29,10 +29,27 @@ Types and its discription
 **[⬆ Back to Top](#Payroll_calculations-types)**
 
    
-   | 2  | [Payment-of-Gratuity](#)     
+   | 2  | [Payable-days](#)     
+
+## calculation-of- payable-days
+![](./payabledays/image1.png)
+
+
+
+ ![](./payabledays/image2.png)
+
+
+ ![](./payabledays/image3.png)
+
+
+ ![](./payabledays/image4.png)
+
+
+ ![](./payabledays/image5.png)
 
 
 
 
+ 
 
-    
+ 

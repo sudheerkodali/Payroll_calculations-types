@@ -26,14 +26,13 @@ Types and its discription
 ## salary increment on performance calculation
 ![](./py/image3.png)
    
-**[⬆ Back to Top](#Types of PayRoll information)**
+**[⬆ Back to Top](#Payroll_calculations-types)**
 
    
-   
+   | 2  | [Payment-of-Gratuity](#)     
 
 
 
 
 
-| 2 | [payment-of-Gratuity]
     

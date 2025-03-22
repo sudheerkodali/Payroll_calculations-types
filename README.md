@@ -1,7 +1,7 @@
 # Payroll_calculations-types
 Types and its discription 
 
-# Types of Pay-Roll information.
+### Types of Pay-Roll information.
 
 
 
@@ -37,7 +37,7 @@ Types and its discription
 ## salary increment on performance calculation
 ![](./py/image3.png)
    
-**[⬆ Back to Top](#table-of-concepts)**
+**[⬆ Back to Top](# Pay_Roll information)**
    
    1. **KRA KPI'S:**
 

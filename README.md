@@ -39,16 +39,23 @@ Types and its discription
    
 ![](./payabledays/image1.png)
 
-<ul><p> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</p></ul>
+<ul><li> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</p></ll>
+
+<ul><li> When gross salary was given, metro city with january payable calcutation and leave and absent, working days. </li></ul>
 
  ![](./payabledays/image2.png)
 
+<ul><li> Same as february month calculation with metro, Gross salary is 42,000 then cakculate payable days in thais nonth. </li></ul
+                                                                                                                        
+  ![](./payabledays/image3.png)
 
- ![](./payabledays/image3.png)
-
-
+<ul><li> Same as february month calculation with metro, Gross salary is 42,000 then cakculate payable days in thais nonth. </li></ul
+                                                         
  ![](./payabledays/image4.png)
-
+ <ul><li> Same as febuary month calculation with metro, Gross salary is 42,000 then cakculate payable days in thais nonth. </li></ul
+                                                         
+<ul><li>calculation and month tex and holiday shedule under paydays
+</li></ul>
 
  ![](./payabledays/image5.png)
 

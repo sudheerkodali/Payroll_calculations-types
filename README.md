@@ -39,7 +39,7 @@ Types and its discription
    
 ![](./payabledays/image1.png)
 
-<ul><p> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</p></ul>ul
+<ul><p> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</p></ul>
 
  ![](./payabledays/image2.png)
 

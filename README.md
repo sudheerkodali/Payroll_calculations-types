@@ -35,7 +35,8 @@ Types and its discription
    | 2  | [Payable-days](#)     
 
 ## calculation-of- payable-days
-<P> Payable days allways calculated on which month 30/31 days and then the company is fallowing WEEKLY-OFF : 5 DAYS WORKING PERIOD or 6 DAYS WORKING PERIOD, along with Holiday calender shedule etc as in the below information. </P>
+<p>Payable days allways calculated on which month 30/31 days and then the company is fallowing WEEKLY-OFF : 5 DAYS WORKING PERIOD or 6 DAYS WORKING PERIOD, along with Holiday calender shedule etc as in the below information<p>
+   
 ![](./payabledays/image1.png)
 
 

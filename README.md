@@ -45,7 +45,7 @@ Types and its discription
 
  ![](./payabledays/image2.png)
 
-<ul><li> Same as february month calculation with metro, Gross salary is 42,000 then cakculate payable days in thais nonth. </li></ul
+<ul><li> Same as february month calculation with metro, Gross salary is 32,000 then cakculate payable days in thais nonth. </li></ul
                                                                                                                         
   ![](./payabledays/image3.png)
 

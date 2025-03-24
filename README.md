@@ -26,7 +26,7 @@ Types and its discription
 ## Recruitment process 
 ![](./py/image2.png)
 
-## salary increment on performance calculation
+## Salary increment on performance calculation
 ![](./py/image3.png)
    
 **[⬆ Back to Top](#Payroll_calculations-types)**

@@ -39,9 +39,9 @@ Types and its discription
    
 ![](./payabledays/image1.png)
 
-<ul><li> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</p></ll>
+<ul><li> sample months SEPTEMBER and FEBRUARY months payable calculation with SANDWITCH rule .</ll>
 
-<ul><li> When gross salary was given, metro city with january payable calcutation and leave and absent, working days. </li></ul></p>
+<li> When gross salary was given, leaving metro city with january payable calcutation and leave and absent, working days. </li></ul>
 
  ![](./payabledays/image2.png)
 

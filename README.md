@@ -9,7 +9,7 @@ Types and its discription
 |    | **table-of-concepts**                                                                                                                                                          |                                                                                                                                                                    
 | 1  | [KRA-KPI'S](#)                                                                                                                                                           |
 | 2  | [Payable-days](#)                                                                                                                                                        |
-| 3  | [PF-Policies](#)                                                                                                                                                         |
+| 3  | [Pament-of-gratuity](#)                                                                                                                                                         |
 | 4  | [Payroll-calculations](#)                                                                                                                                                |
 | 5   |[Payroll-slabs](#)                                                                                                                                                       |
 

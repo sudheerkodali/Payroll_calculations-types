@@ -54,13 +54,16 @@ Types and its discription
  ![](./payabledays/image4.png)
  <ul><li> Same as february month calculation with metro, Gross salary is 42,000 then cakculate payable days in thais nonth. </li></ul>
                                                          
-<ul><li>calculation and month tex and holiday shedule under paydays
+<ul><li>calculation and month tax and holiday shedule under paydays
 </li></ul>
 
  ![](./payabledays/image5.png)
 
+**[⬆ Back to Top](#Payroll_calculations-types)**
 
 
+
+| 3  | [Pament-of-gratuity](#) 
 
  
 

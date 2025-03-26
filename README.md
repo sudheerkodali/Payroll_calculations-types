@@ -67,7 +67,7 @@ Types and its discription
 
 ### Pament_gratuity 
 
-![](./payment of gatuity/image1.png)
+![](./payment of gratuity/image1.png)
 
 
  

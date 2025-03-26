@@ -66,10 +66,12 @@ Types and its discription
 | 3  | [Payment-of-gratuity](#) 
 
 ## Payment_gratuity 
+<ul><li> Pament of Graduity act & instruction to fallow and formulas, eligibility for gratuity </li></ul>
 ![](./paymentofgratuity/image1.png)
 
 
  ## Payment_gratuity 
+ <ul><li> Basic questions and points to understand on gratuity </li></ul>
 ![](./paymentofgratuity/image2.png)
 
  

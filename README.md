@@ -65,6 +65,9 @@ Types and its discription
 
 | 3  | [Pament-of-gratuity](#) 
 
+### Pament_gratuity 
+
+![](./payment of gatuity/image1.png)
 
 
  

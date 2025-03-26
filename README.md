@@ -69,6 +69,16 @@ Types and its discription
 ![](./paymentofgratuity/image1.png)
 
 
- 
+ ## Payment_gratuity 
+![](./paymentofgratuity/image2.png)
 
  
+## Payment_gratuity 
+![](./paymentofgratuity/image3.png)
+
+
+## Payment_gratuity 
+![](./paymentofgratuity/image4.png)
+
+## Payment_gratuity 
+![](./paymentofgratuity/image5.png)

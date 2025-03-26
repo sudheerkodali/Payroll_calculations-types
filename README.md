@@ -73,6 +73,7 @@ Types and its discription
 
  ## Payment_gratuity 
  <ul><li> Basic questions and points to understand about gratuity </li></ul>
+ 
 ![](./paymentofgratuity/image2.png)
 
  

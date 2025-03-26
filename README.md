@@ -77,12 +77,12 @@ Types and its discription
 ![](./paymentofgratuity/image2.png)
 
  
-## Payment_gratuity 
+## Leave-Encashment
 ![](./paymentofgratuity/image3.png)
 
 
-## Payment_gratuity 
+## EPS-Pension 
 ![](./paymentofgratuity/image4.png)
 
-## Payment_gratuity 
+## Unpaid-Salary
 ![](./paymentofgratuity/image5.png)

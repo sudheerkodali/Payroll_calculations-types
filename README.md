@@ -10,8 +10,8 @@ Types and its discription
 | 1  | [KRA-KPI'S](#)                                                                                                                                                           |
 | 2  | [Payable-days](#)                                                                                                                                                        |
 | 3  | [Payment-of-gratuity](#)                                                                                                                                                         |
-| 4  | [Payroll-calculations](#)                                                                                                                                                |
-| 5   |[Payroll-slabs](#)                                                                                                                                                       |
+| 4  | [PF_Policies](#)                                                                                                                                                |
+| 5   |[Payroll-management](#)                                                                                                                                                       |
 
 
 | 1  | [KRA KPI'S](#) 

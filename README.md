@@ -13,6 +13,8 @@ Types and its discription
 | 4  | [PF_Policies](#)                                                                                                                                                |
 | 5   |[Payroll-management](#)                                                                                                                                                       |
 
+| 6 |[Salary calculations](#)           |  
+
 
 | 1  | [KRA KPI'S](#) 
 

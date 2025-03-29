@@ -15,6 +15,22 @@ Types and its discription
 
 | 6 |[Salary calculations](#)           |  
 
+| 7 |[PF Policies](#)                                                                           |
+| 8 |[Payroll_management](#)                                                                    |
+| 9 |[Payroll_management_calculations](#) |                                                      
+| 10 |[Payroll_calculations](#)                                                                 
+| 11 |[Blue_colour_employees](#)                                                              |  
+
+
+
+
+
+
+
+
+
+  
+
 
 | 1  | [KRA KPI'S](#) 
 

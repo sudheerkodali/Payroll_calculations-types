@@ -13,9 +13,10 @@ Types and its discription
 | 4  | [PF_Policies](#)                                                                                                                                                |
 | 5   |[Payroll-management](#)                                                                                                                                                       |
 
-| 6 |[Salary calculations](#)           |  
+| 6 |[Salary calculations](#)                                                                 
+|  
 
-| 7 |[PF Policies](#)                                                                           |
+| 7 |[PF Policies](#)                                                                           
 | 8 |[Payroll_management](#)                                                                    |
 | 9 |[Payroll_management_calculations](#) |                                                      
 | 10 |[Payroll_calculations](#)                                                                 

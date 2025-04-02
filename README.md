@@ -106,6 +106,8 @@ Types and its discription
 
 
  4  | [PFpolicies(#) 
+ <ul><rl>PF_POLICIES and actc</rl><</ul>
 ![](./PFpolicies/image1.png)
 
-![](./PFpolicies/image2.png)
+   ![](./PFpolicies/image2.png)
+<ul><li> its calculations?> <>/ul</i>

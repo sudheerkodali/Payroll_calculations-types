@@ -105,8 +105,10 @@ Types and its discription
 
 
 
- 4  | [PFpolicies(#) 
- <ul><rl>PF_POLICIES and actc</rl><</ul>
+| 4  | [PFpolicies(#) 
+ 
+ <ul><li>PF_POLICIES and actc</li></ul>
+ 
 ![](./PFpolicies/image1.png)
 
    ![](./PFpolicies/image2.png)

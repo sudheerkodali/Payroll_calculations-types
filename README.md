@@ -102,3 +102,10 @@ Types and its discription
 
 ## Unpaid-Salary
 ![](./paymentofgratuity/image5.png)
+
+
+
+ 4  | [PFpolicies(#) 
+![](./PFpolicies/image1.png)
+
+![](./PFpolicies/image2.png)

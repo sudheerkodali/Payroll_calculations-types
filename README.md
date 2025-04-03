@@ -111,5 +111,5 @@ Types and its discription
  
 ![](./PFpolicies/image1.png)
 
-   ![](./PFpolicies/image2.png)
-<ul><li> its calculations?> </ul></ii>
+![](./PFpolicies/image2.png)
+<ul><li> its calculations?> </ul></li>

@@ -105,11 +105,11 @@ Types and its discription
 
 
 
-| 4  | [PFpolicies(#) 
+| 4  | [PFpolicies](#) 
  
- <ul><li>PF_POLICIES and actc</li></ul>
+ <ul><li>PF_POLICIES and its act's , types</li></ul>
  
 ![](./PFpolicies/image1.png)
 
    ![](./PFpolicies/image2.png)
-<ul><li> its calculations?> <>/ul</i>
+<ul><li> its calculations?> </ul></ii>

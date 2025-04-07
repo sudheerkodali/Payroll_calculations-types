@@ -106,7 +106,6 @@ Types and its discription
 
 
 | 4  | [PFpolicies](#) 
- 
  <ul><li>PF_POLICIES and its act's , types</li></ul>
  
 ![](./PFpolicies/image1.png)
@@ -114,3 +113,11 @@ Types and its discription
 <ul><li> its calculations </ul></li>
 
 ![](./PFpolicies/image2.png)
+
+
+
+
+
+ | 5   |[Payroll-management](#)
+ ![](./payroll-management/image1.png)
+ 

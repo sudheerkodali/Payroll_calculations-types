@@ -119,8 +119,13 @@ Types and its discription
 
 
  | 5   |[Payroll-management](#)
+  <ul><li> PayRoll management and its types in payroll how to function the process </li></ul>
+ 
  ![](./paymentManagement/image1.png)
 
+ 
+ <ul><li> PM and its types to process the payroll like Gross, Dedcution, and othe formats </li></ul>
+ 
   ![](./paymentManagement/image2.png)
 
  

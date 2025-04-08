@@ -119,8 +119,9 @@ Types and its discription
 
 
  | 5   |[Payroll-management](#)
- ![](./payrollmanagement/image1.png)
+ ![](./paymentManagement/image1.png)
 
-  ![](./payrollmanagement/image2.png)
+  ![](./paymentManagement/image2.png)
 
  
+ ![](./paymentManagement/image3.png)

@@ -132,3 +132,11 @@ Types and its discription
  
 **[⬆ Back to Top](#Payroll_calculations-types)**
 
+| 6 |[payroll calculations](#)  
+
+ ![](./payrollcalculations/image1.png)
+
+ 
+
+
+

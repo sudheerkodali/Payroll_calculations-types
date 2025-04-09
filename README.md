@@ -128,6 +128,7 @@ Types and its discription
  
   ![](./payrollManagement/image2.png)
 
- <ul><li> Difference between GROSS, DEDUCTIONS, CONTRIBUTIONS and FORMULAS how to calculate the PAY-ROLL types </li></ul>
+ <ul><li> Difference between GROSS, DEDUCTIONS, CONTRIBUTIONS and FORMULAS, how to calculate on the PAY-ROLL types </li></ul>
  
- ![](./paymentManagement/image3.png)
+**[⬆ Back to Top](#Payroll_calculations-types)**
+

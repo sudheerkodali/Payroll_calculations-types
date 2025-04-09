@@ -121,12 +121,12 @@ Types and its discription
  | 5   |[Payroll-management](#)
   <ul><li> PayRoll management and its types like TAKE HOME, FTH, CTC, GROSS, DEDUCTIONS, CONTRIBUTIONS,etc in payroll how to function with this process </li></ul>
  
- ![](./paymentManagement/image1.png)
+ ![](./payrollManagement/image1.png)
 
  
  <ul><li> PM and Employees wages and difference between WHILE COLOR & BLUE COLOR Employees  </li></ul>
  
-  ![](./paymentManagement/image2.png)
+  ![](./payrollManagement/image2.png)
 
  <ul><li> Difference between GROSS, DEDUCTIONS, CONTRIBUTIONS and FORMULAS how to calculate the PAY-ROLL types </li></ul>
  

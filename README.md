@@ -136,6 +136,10 @@ Types and its discription
 
  ![](./payrollcalculations/image1.png)
 
+ ![](./payrollcalculations/image2.png)
+
+ ![](./payrollcalculations/image3.png)
+
  
 
 

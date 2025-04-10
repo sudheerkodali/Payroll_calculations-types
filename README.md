@@ -103,6 +103,8 @@ Types and its discription
 ## Unpaid-Salary
 ![](./paymentofgratuity/image5.png)
 
+**[⬆ Back to Top](#Payroll_calculations-types)**
+
 
 
 | 4  | [PFpolicies](#) 
@@ -114,6 +116,7 @@ Types and its discription
 
 ![](./PFpolicies/image2.png)
 
+**[⬆ Back to Top](#Payroll_calculations-types)**
 
 
 
@@ -132,6 +135,7 @@ Types and its discription
  
 **[⬆ Back to Top](#Payroll_calculations-types)**
 
+
 | 6 |[payroll calculations](#)  
 
 <ul><li> Different types of metro and non-metro cities GROSS Salary was given and calculated on GROSS & CTC , Formulas on CTC, SA, GROSS </li></ul>
@@ -143,6 +147,7 @@ Types and its discription
  ![](./payrollcalculations/image3.png)
 
  
+| 7 |[CTC-Is-given](#) 
 
 
 

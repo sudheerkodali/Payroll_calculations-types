@@ -149,11 +149,18 @@ Types and its discription
  
 | 7 |[CTC-Is-given](#) 
 
-  ![](./CTCisgiven/image1.png)
+<ul><li> Different types of Metro and Non-metro along with PT_EVERY STATE TAX along with different PF policies implemented based on GROSS   </li></ul>
 
-  ![](./CTCisgiven/image2.png)
+![](./CTCisgiven/image1.png)
 
-  ![](./CTCisgiven/image3.png)
+ <ul><li> When CTC is given then, how to calculated SP-Special allowance by using formula as 
+given above.</li></ul>
+ 
+ ![](./CTCisgiven/image2.png)
+
+<ul><li> When CTC is given with non-metro then calculate total contribution first then SP and GROSS methods . </li></ul>
+
+![](./CTCisgiven/image3.png)
 
 
 

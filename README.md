@@ -12,8 +12,8 @@ Types and its discription
 | 3  | [Payment-of-gratuity](#)                                                                                                                                                         |
 | 4  | [PF_Policies](#)                                                                                                                                                
 | 5   |[Payroll-management](#)                                                                                                                                                 |
-| 6 |[Salary calculations](#)                                                                                                                                                 |  
-| 7 |[PF Policies](#)                                                                                                                                                         |                                                                      
+| 6 |[payroll calculations](#)                                                                                                                                                 |  
+| 7 |[CTC-Is-given](#)                                                                                                                                                         |                                                                      
 | 8 |[Payroll_management](#)                                                                                                                                                  | 
 | 9 |[Payroll_management_calculations](#)                                                                                                                                     |                                                   
 | 10 |[Payroll_calculations](#)                                                                                                                                               |                                                        

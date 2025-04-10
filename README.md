@@ -132,7 +132,7 @@ Types and its discription
  
 **[⬆ Back to Top](#Payroll_calculations-types)**
 
-| 6 |[payroll calculations](#)  
+<h4>| 6 |[payroll calculations](#)  </h4>
 
 <ul><li> Different types of metro and non-metro cities GROSS Salary was given and calculated on GROSS & CTC , Formulas on CTC, SA, GROSS </li></ul>
  

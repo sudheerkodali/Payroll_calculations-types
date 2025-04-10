@@ -149,5 +149,11 @@ Types and its discription
  
 | 7 |[CTC-Is-given](#) 
 
+  ![](./CTC-Is-given/image1.png)
+
+  ![](./CTC-Is-given/image2.png)
+
+  ![](./CTC-Is-given/image3.png)
+
 
 

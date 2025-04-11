@@ -149,7 +149,7 @@ Types and its discription
  
 | 7 |[CTC-Is-given](#) 
 
-<ul><li> Different types of Metro and Non-metro along with PT_EVERY STATE TAX along with different PF policies implemented based on GROSS   </li></ul>
+<ul><li> Different types of Metro and Non-metro along with PT_EVERY STATE has professional TAX along with different PF policies implemented based on GROSS   </li></ul>
 
 ![](./CTCisgiven/image1.png)
 

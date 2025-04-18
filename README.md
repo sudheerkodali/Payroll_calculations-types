@@ -18,6 +18,12 @@ Types and its discription
 | 9 |[Payroll_management_calculations](#)                                                                                                                                     |                                                   
 | 10 |[Payroll_calculations](#)                                                                                                                                               |                                                        
 | 11 |[Blue_colour_employees](#)                                                                                                                                              |  
+| 12 |[Extra_working_houre](#)                                                                                                                                                 |
+| 11 |[Payment_of_Bonus_Act](#)                                                                                                                                                |
+| 11 |[Slab_systems](#)                                                                                                                                                        |
+| 11 |[Slab_system_different_sections](#)                                                                                                                                     |    
+
+
 
 
 

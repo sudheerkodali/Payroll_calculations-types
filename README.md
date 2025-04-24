@@ -170,3 +170,9 @@ given above.</li></ul>
 
 
 | 8 |[Payroll_management](#) 
+
+
+
+
+
+| 8 |[Payroll_management_calculations](#)

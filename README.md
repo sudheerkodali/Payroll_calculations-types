@@ -175,5 +175,6 @@ given above.</li></ul>
 
 
 
-| 9 |[Payroll_management_calculations](#)
-| 10| [ Full and Finall settlement|(#)
+| 9 |[Payroll_management_calculations](#)                                                                                                                                     |                                                                                                                                      
+
+| 10| [ Full and Finall settlement|(#)                                                                                                                                         

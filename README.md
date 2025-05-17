@@ -1,4 +1,4 @@
-# Payroll_calculations-types
+ji# Payroll_calculations-types
 Types and its discription 
 
 ### Types of PayRoll information
@@ -176,4 +176,4 @@ given above.</li></ul>
 
 
 | 9  |[Payroll_management_calculations](#)                                                                                                                                                      |                                                                                                                               
-| 10 |[payroll_calculations|(#)                                                                 |                                                                                                                                      
+| 10 |[payroll_calculationd|(#)                                                                                                                                  

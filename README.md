@@ -176,4 +176,4 @@ given above.</li></ul>
 
 
 | 9  |[Payroll_management_calculations](#)                                                                                                                                                      |                                                                                                                               
-| 10 |[payroll_calculationd|(#)                                                                                                                                  
+| 10 |[payroll_calculationd|(#)    |                                                                                                                              

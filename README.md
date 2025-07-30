@@ -169,11 +169,11 @@ given above.</li></ul>
 ![](./CTCisgiven/image3.png)
 
 
-| 8 |[Payroll_management](#)
+| 8 |[Payroll_management](#)           |
 
 
 
 
 
-| 9  |[Payroll_management_calculations](#)                                                                                                                                                      |                                                                                                                               
+| 9  |[Payroll_managemen._calculations](#)                                                                                                                                                      |                                                                                                                               
 | 10 |[payroll_calculationd|(#)    |                                                                                                                              
